@@ -8,13 +8,6 @@
 
 ---
 
-## 📱 Preview
-
-| Light Mode                                    | Dark Mode                                    |
-| --------------------------------------------- | -------------------------------------------- |
-| <img src="screenshots/light.png" width="200"> | <img src="screenshots/dark.png" width="200"> |
-
----
 
 ## 🛠️ Features
 

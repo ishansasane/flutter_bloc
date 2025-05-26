@@ -1,16 +1,44 @@
-# shop_app
+# 🎯 Flutter BLoC App – Your App Name
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.19-blue?logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-3.3-blue?logo=dart" />
+  <img src="https://img.shields.io/badge/BLoC-State%20Management-blueviolet" />
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Preview
 
-A few resources to get you started if this is your first Flutter project:
+| Light Mode                                    | Dark Mode                                    |
+| --------------------------------------------- | -------------------------------------------- |
+| <img src="screenshots/light.png" width="200"> | <img src="screenshots/dark.png" width="200"> |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Features
+
+- ✅ Clean BLoC architecture
+- ✅ Responsive UI
+- ✅ Reusable widgets
+- ✅ Local or remote API integration
+- ✅ Error handling and loading states
+- ✅ Navigation with BLoC
+- ✅ Custom theming
+
+---
+
+## 📂 Project Structure (Clean BLoC)
+
+lib/
+├── core/
+│ └── theme/
+├── features/
+│ └── home/
+│ ├── bloc/
+│ │ ├── home_bloc.dart
+│ │ ├── home_event.dart
+│ │ └── home_state.dart
+│ ├── models/
+│ └── ui/
+├── main.dart
